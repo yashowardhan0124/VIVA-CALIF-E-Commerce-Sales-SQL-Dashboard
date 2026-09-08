@@ -38,7 +38,8 @@ Transaction-level sales data including:
 | Avg. Days to Deliver | 2.4 |
 
 ## 🖼️ Dashboard Preview
-*(insert screenshot here)*
+<img width="2886" height="1434" alt="image" src="https://github.com/user-attachments/assets/e4db8cd5-5b50-4bb6-bab1-33dca2548ccf" />
+
 
 ## 🚀 How to Use
 1. Download `ecommerce-dashboard.xlsx`
